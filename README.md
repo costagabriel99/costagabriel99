@@ -1,16 +1,28 @@
-### Hi there 👋
+# Bem-vindo(a) ao meu perfil do GitHub! 👋
 
-<!--
-**costagabriel99/costagabriel99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Sou um desenvolvedor web apaixonado por criar soluções inovadoras e funcionais. Com experiência em desenvolvimento Full Stack, estou constantemente aprimorando minhas habilidades e explorando novas tecnologias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estou sempre aprendendo e acompanhando as últimas tendências no mundo do desenvolvimento web.
+- 🚀 Tenho experiência em projetos de ponta a ponta, desde o design até a implementação.
+
+## Habilidades
+
+- 👨🏻‍💻 Linguagens de programação: JavaScript.
+- 💻 Linguagens de marcação e estilização: HTML/CSS.
+- ⚙️ Frameworks: React, Node.js.
+- 🛠️ Ferramentas e tecnologias: Git, MongoDB, Express, Next.js.
+
+## Projetos Destacados
+
+- [ClimaDEV](https://portfolio-costagabriel99.vercel.app/#projects-climaDev) - Uma aplicação web para consultar a previsão do tempo de determinada região, através do uso de API externa.
+- [SocialDEV](https://portfolio-costagabriel99.vercel.app/#projects-socialDev) - Uma rede social desenvolvida para compartilhamento de mensagens de texto.
+
+
+## Contato
+
+- 📧 [E-mail](https://portfolio-costagabriel99.vercel.app/#contact)
+- 💼 LinkedIn: [Gabriel Costa](https://www.linkedin.com/in/costagabriel-99/)
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações ou oportunidades de trabalho interessantes. Vamos construir algo incrível juntos! 🚀
