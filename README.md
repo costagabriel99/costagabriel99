@@ -35,7 +35,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://portfolio-costagabriel99.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=airplayvideo&logoColor=white">
   </a>
 </div>
 
