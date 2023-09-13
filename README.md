@@ -43,7 +43,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">
 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 - ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass) ![Styled-Components](https://img.shields.io/badge/Styled_components-000?style=for-the-badge&logo=styledcomponents)
-- ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![Next](https://img.shields.io/badge/NextJs-000?style=for-the-badge&logo=nextdotjs) ![Node](https://img.shields.io/badge/node-000?style=for-the-badge&logo=nodedotjs)
+- ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![React_Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react) ![Next](https://img.shields.io/badge/NextJs-000?style=for-the-badge&logo=nextdotjs) ![Node](https://img.shields.io/badge/node-000?style=for-the-badge&logo=nodedotjs)
 - ![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git) ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=MongoDB) ![Express](https://img.shields.io/badge/express-000?style=for-the-badge&logo=express) ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-000?style=for-the-badge&logo=visualstudiocode)
 
 ## Estudando
